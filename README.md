@@ -14,4 +14,4 @@ Back End Ruby Developer @ Nexoos
 
 ## Top Skills
 
-Ruby | Ruby on Rails | JavaScript | Java | SQL
+Ruby | Ruby on Rails | JavaScript | Python | Java | SQL
