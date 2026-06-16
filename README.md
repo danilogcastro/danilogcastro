@@ -2,7 +2,7 @@
 
 ## Danilo Castro
 
-Back End Ruby Developer @ Nexoos
+Back End Ruby Developer
 
 ## Github Stats
 
