@@ -2,7 +2,7 @@
 
 ## Danilo Castro
 
-Back End Ruby Developer
+Backend Ruby Developer
 
 ## Github Stats
 
@@ -14,4 +14,4 @@ Back End Ruby Developer
 
 ## Top Skills
 
-Ruby | Ruby on Rails | JavaScript | Python | Java | SQL
+Ruby | Ruby on Rails | JavaScript | Python | SQL 
